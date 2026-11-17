@@ -64,8 +64,7 @@ sympy==1.14.0
 tokenizers==0.22.1
 torch==2.9.1
 tornado==6.5.2
- tqdm==4.67.1
-t raitlets==5.14.3
+tqdm==4.67.1
 traitlets==5.14.3
 typing_extensions==4.15.0
 transformers==4.57.3
